@@ -6,3 +6,4 @@ public class MaxNumber {
         return (a > b) ? a : b;
     }
 }
+
